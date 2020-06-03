@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SdHnvVKMWt59OwSQAJYLLnpqzGIaVa6POycCqskj5YImQlIO3H3v96jaLzLLDKfm/yALbL5Vwe1VJk3gGtXWBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\debor\\Desktop\\exercicios programação\\csharp\\exercicio uri 1018 - cédulas\\uri1038\\uri1038\\uri1038.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\debor\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

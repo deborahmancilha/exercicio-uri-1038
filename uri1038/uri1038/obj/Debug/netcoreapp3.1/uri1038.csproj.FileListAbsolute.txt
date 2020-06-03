@@ -1,0 +1,13 @@
+C:\Users\debor\Desktop\exercicios programação\csharp\exercicio uri 1018 - cédulas\uri1038\uri1038\bin\Debug\netcoreapp3.1\uri1038.exe
+C:\Users\debor\Desktop\exercicios programação\csharp\exercicio uri 1018 - cédulas\uri1038\uri1038\bin\Debug\netcoreapp3.1\uri1038.deps.json
+C:\Users\debor\Desktop\exercicios programação\csharp\exercicio uri 1018 - cédulas\uri1038\uri1038\bin\Debug\netcoreapp3.1\uri1038.runtimeconfig.json
+C:\Users\debor\Desktop\exercicios programação\csharp\exercicio uri 1018 - cédulas\uri1038\uri1038\bin\Debug\netcoreapp3.1\uri1038.runtimeconfig.dev.json
+C:\Users\debor\Desktop\exercicios programação\csharp\exercicio uri 1018 - cédulas\uri1038\uri1038\bin\Debug\netcoreapp3.1\uri1038.dll
+C:\Users\debor\Desktop\exercicios programação\csharp\exercicio uri 1018 - cédulas\uri1038\uri1038\bin\Debug\netcoreapp3.1\uri1038.pdb
+C:\Users\debor\Desktop\exercicios programação\csharp\exercicio uri 1018 - cédulas\uri1038\uri1038\obj\Debug\netcoreapp3.1\uri1038.csprojAssemblyReference.cache
+C:\Users\debor\Desktop\exercicios programação\csharp\exercicio uri 1018 - cédulas\uri1038\uri1038\obj\Debug\netcoreapp3.1\uri1038.AssemblyInfoInputs.cache
+C:\Users\debor\Desktop\exercicios programação\csharp\exercicio uri 1018 - cédulas\uri1038\uri1038\obj\Debug\netcoreapp3.1\uri1038.AssemblyInfo.cs
+C:\Users\debor\Desktop\exercicios programação\csharp\exercicio uri 1018 - cédulas\uri1038\uri1038\obj\Debug\netcoreapp3.1\uri1038.csproj.CoreCompileInputs.cache
+C:\Users\debor\Desktop\exercicios programação\csharp\exercicio uri 1018 - cédulas\uri1038\uri1038\obj\Debug\netcoreapp3.1\uri1038.dll
+C:\Users\debor\Desktop\exercicios programação\csharp\exercicio uri 1018 - cédulas\uri1038\uri1038\obj\Debug\netcoreapp3.1\uri1038.pdb
+C:\Users\debor\Desktop\exercicios programação\csharp\exercicio uri 1018 - cédulas\uri1038\uri1038\obj\Debug\netcoreapp3.1\uri1038.genruntimeconfig.cache
